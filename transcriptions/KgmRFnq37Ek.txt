@@ -1,0 +1,157 @@
+Fala pessoal, bem-vindo ao canal do Rato Borrachudo. Eu sou o Douglas falando aqui com vocês.
+Desculpa o título, desculpa também, mas o assunto é um pouquinho sério e eu tenho que ver
+o público aqui falar o que está acontecendo, o que aconteceu de fato agora. Está acontecendo na
+real que impactou diretamente o projeto StreetBots. Eu prometi para mim mesmo que eu não vou gravar
+esse vídeo aqui com um tom triste, apesar de estar bem chateado com o que aconteceu, mas eu encaro
+a fatalidade, eu encaro como um processo para poder superar e seguir em frente e realizar StreetBots.
+Mas deixa eu contextualizar aqui que com certeza eu deve estar pegando um monte de gente de surpresa
+no começo desse vídeo para expressar que esse vídeo não tem nenhum viés político, ele não
+tem nada a ver com assim... Quer dizer, ele foi impactado diretamente com as manifestações que
+estão acontecendo no Brasil, mas não tem a ver com o que está acontecendo no Brasil e sim com o nosso
+projeto do canal que vocês muito bem sabem. Há mais de dois anos eu estou idealizando esse projeto aqui,
+há mais de dois anos eu faço conteúdo de robótica aqui e a gente esse ano teve a iniciativa de
+realmente fazer algo inédito e único pelo cenário de batalha de robô e robótica aqui no Brasil,
+mas primeiramente eu gostaria de expressar que eu não sou contra a nenhum tipo de manifestação,
+desde que ela seja pacífica, na minha opinião agora desde que ela não prejudique o próximo.
+E vocês já vão entender o porquê. Mais uma vez ressaltando, não tem nenhum viés político
+aqui nesse vídeo, tem nada, as pessoas fazem o que elas querem, mas entendam que tem efeitos
+colaterais. Nenhum desses efeitos colaterais acabou prejudicando a gente muito mesmo essa semana.
+Como vocês sabem eu tenho quase toda quarta-feira botado vídeos de StreetBots, botado vídeos sobre
+a construção da arena, botado tudo que a gente tem feito para poder realizar o evento agora em
+Rio de Janeiro e as gravações da StreetBots seria agora no dia 5, 6 e 7. O modelo que a gente tinha
+escolhido e eu ia vir a público no dia de hoje para explicar para vocês o modelo que a gente
+escolhido foi o de gravação e não de ao vivo, porque a gente sentiu que a gente conseguiria entregar
+muito mais se o conteúdo fosse gravado. A ideia era depois de três semanas a gente ter um produto
+de 11 episódios de uma hora cada aqui no canal. Toda quinta-feira, quarta-feira a gente estava
+decidido ainda. Desculpa galera, é um lápiz de saber onde eu estou aqui. Então voltando, a gente já
+estava montando a arena, a gravação é essa semana, então já estava tudo feito. O pessoal da Rede Lizzy
+nosso protocinador principal ele pancou a arena de Robb e Fedder para o nosso campeonato, então
+essa arena foi construída pelo Guito Oledo. Eu tenho feito conteúdo audiovisual para vocês
+assistirem tudo e eu ia pegar muito pesado nessas semanas, agora as próximas semanas, para a gente
+poder ver lá o nosso StreetBots lindo e maravilhoso, mas as gravações iam ser essa semana. Só para quem
+não sabe o que é StreetBots, StreetBots é uma iniciativa de robótico aqui no Brasil, incentivando
+tecnologia, incentivando educação e com isso a gente tem um cenário de batalha de robô, existe há
+mais de 20 anos aqui no Brasil e nunca foi reconhecido. E com o fato de eu fazer vídeo e estar bem
+envolvido com isso, eu quis realmente fazer disso um negócio para todo mundo, um negócio para poder
+incentivar educação, um negócio para poder incentivar o esporte. Então aos modelos de esporte
+de robótico a gente trouxe esse ano lá na Ioconex a primeira versão da StreetBots que foi no evento,
+foi ao vivo e foi sensacional. Então a gente quis melhorar isso, a gente quis transformar isso
+num produto para poder trazer incentivo privado para se fomentar todo esse cenário, porque esse
+cenário é um cenário completamente reconhecido lá fora, os profissionais de batalha de robô e
+de robótica são muito conhecidos lá fora também. Para você ter ideia o Brasil exporta esses
+profissionais lá para Forte, eles exportam tecnologia, são completamente reconhecidos lá e aqui no
+Brasil ninguém sabe quem são eles. Para você ter ideia tem times que vão para os Estados Unidos,
+inclusive alguns times agora estão nos Estados Unidos e a vir para StreetBots essa semana. Teve
+seu voo provavelmente impactado, a gente não sabe ainda, mas assim como teve um monte de cancelamento
+em Guarulhos, a remarcação desses voos, o inferno, tipo tal tal tal caos, ninguém sabe se vai ser
+reconhecido ou não, já já vou chegar nesse assunto. Mas StreetBots é isso, StreetBots é
+incentivar esse cenário, StreetBots é trazer o reconhecimento para esse cenário e para esses
+profissionais, entendeu? Inclusive eu gostaria muito de agradecer primeiramente a todos os
+times envolvidos, são quase 30 times, 64 robôs que a gente ia trazer para a versão dessas StreetBots,
+iam ser um campeonato com três categorias e uma premiação de 150 mil reais. Então eu queria dar
+um beijo, o quanto vocês são profissionais, o quanto a gente pode contar com vocês na resolução
+de problemas durante todos esses meses de organização, o quanto vocês assim tudo que a
+gente pedia vocês entregaram é muito diferente de boa parte do cenário que eu estou envolvido,
+então vocês com certeza são profissionais e estão na minha opinião preparadíssimos para o mercado
+de trabalho, aqueles que ainda são universitários no caso né, e não os que já estão no mercado de
+trabalho. Isso como a opinião minha, o quanto vocês foram profissionais, equipes profissionais de
+trabalho, então meu muito obrigado. Mas vamos lá pessoal, o que que de fato aconteceu essa semana?
+É uma semana muito corrida, é uma semana onde a gente estava montando arena, é uma semana onde a
+gente estava esperando torneiros, acedores de policarbonato, é uma semana onde a gente estava
+empeado, o lugar já pronto, o VBL toda pronta para poder realizar o StreetBots essa semana,
+quando eu falo toda, todos os lugares da VBL, o palco, os estúdios, a parte do mesanino, todas as
+localmente paradas esse final de semana para poder fazer as gravações StreetBots e infelizmente o
+que aconteceu de fato? A gente teve a eleição domingo e com isso suscetíveis manifestações
+que praticamente pararam as estradas. Pode parecer bobo, mas não é, porque o que que acontece? Aqui
+por exemplo em São Paulo teve o problema de fechar em Guarulhos, assim um monte de vôo foi
+cancelado e isso gerou um efeito cascata e com certeza vai perdurar até o final da semana,
+e com vôos sendo cancelados as pessoas que estavam vindo para StreetBots foram atingidas
+diretamente. A gente teve um cancelamento de mais ou menos acho que três times que não iriam poder
+vir mais, isso impactou diretamente na chave do campeonato. As manifestações até o dia de hoje
+continuam, eu estou gravando esse vídeo num feriado e elas continuam, então a gente teve que tomar
+uma decisão no dia de ontem até o final do dia, se iria continuar ou não, e a gente realmente
+não gostou por não continuar. Menos três times, não era certeza de garantir dos outros times
+chegarem aqui, porque pensa bem, os postos eles recebem apastecimento de gasolina todo dia,
+que estava já tendo falta. Imagina um time que está vindo de carro, ter que enguçar no meio do
+caminho por falta de gasolina, não achou gasolina, isso poderia acontecer, isso já aconteceu em alguns
+momentos de protesto aqui no Brasil. Teve condução também do nosso staff, da parte do nosso staff,
+que foi cancelada, que estava vindo de ônibus, voos também foram cancelados da parte do nosso
+staff, que não é aqui de São Paulo, pessoal do Rio de Janeiro que vinha aqui, era para estar aqui
+ajudando a gente, não conseguiu vir. Foram vários problemas que foram formando efeito cascata,
+isso prejudicou diretamente o nosso campeonato. A gente poderia botar para semana seguinte?
+Poderia, só que o que acontece? Não é bem assim, a gente conta com mais de 30 times, cada time,
+no mínimo são duas pessoas, três pessoas, imagina a quantidade de pessoas que estavam vindo para
+São Paulo só para poder participar desse campeonato, sem contar que a gente tem uma agenda de campeonato
+até o final do ano, tanto campeonato nacional quanto campeonato internacional. Com isso a gente
+teve que adiar a StreetBots para o ano que vem, em janeiro pessoal. E com certeza não vai ser depois
+da posse de um presidente, isso eu garanto para vocês, porque eu não sei o que vai acontecer,
+a gente já escolheu uma data de gravação e em breve a gente vai publicar, mas o mais importante
+que a gente vai botar aqui no canal é a data do primeiro episódio, o primeiro episódio de 11
+episódios, por enquanto a gente pode estender né, mas por enquanto é certo. Então olha só que legal,
+é um produto que mudou muito a expectativa do que a gente queria, na minha opinião seria sensacional
+gravar ele essa semana e botar ele no ar no dia 30, no dia primeiro de dezembro, se eu não me engano,
+o dia primeiro de dezembro ia começar a sair uma vez por semana StreetBots aqui no canal e algo que
+nunca vocês viram aqui no Brasil, onde se trata no cenário de batalha de robô, algo que vocês
+nunca viram e acontecer aqui no canal, mas infelizmente aconteceu isso, peço desculpa para
+todos os colaboradores, peço desculpa para todos os times, peço desculpa também os patrocinadores
+e apoiadores, infelizmente foi uma fatalidade, não tinha como prever isso. Você sabe que depois da
+eleição ia dar merda, pode até dar merda, mas assim foi muita ingenuidade, então imaginar que
+as estradas parando ia f*** todo mundo. Esse é o problema do protesto que eu cometei lá no começo,
+desde que no cara é legal protesto, é do direito de um cidadão brasileiro fazer protesto, mas assim
+que o que se seja pacífico e não prejudica o próximo. E se eu fui prejudicado e a gente foi
+muito prejudicado, eu acredito que outras pessoas também estão sendo prejudicadas. Pode ser que sua
+causa seja maior, mas eu tô falando do meu, eu tô pensando no nosso aqui e o que eu tô fazendo não
+é só meu, impactou mais de 100 pessoas com certeza, com certeza o que aconteceu impactou mais de 100
+pessoas. Não vou entrar num viés político, eu estou contando o meu lado e eu espero o seu apoio
+pessoal. E uma coisa muito da hora pessoal, muito da hora mesmo era o lançamento da loja da
+StreetBots, a gente estaria fazendo uma pré-venda a partir dessa semana, o vídeo já estava pronto,
+ia ser completamente diferente do que isso daqui, mas para cumprir o cronograma com os nossos
+parceiros a gente precisa fazer o lançamento dessa loja, essa loja realmente toda a verba dela vai
+ser destinada para a realização da StreetBots. Como vocês sabem a gente só tem um patrocinador por
+enquanto que é a Haley DeLize, mas o fato da gente só tem um patrocinador não iria nunca tirar a
+relevância e a qualidade do conteúdo que a gente está fazendo. A gente realmente acredita no que a
+gente está fazendo e com isso a gente espera o seu apoio se você quiser ajudar a gente comprando um
+item da pré-venda da loja da StreetBots. Como vocês sabem também em breve, nas próximas semanas a
+gente também vai botar a venda partes da primeira arena da StreetBots como um souvenir, um souvenir
+que foi autografado pelo Thiago Rossioli, o artista que está junto com a gente nesse projeto, um artista
+de renome hoje no Brasil, fez também toda a arte da primeira StreetBots e está fazendo a segunda,
+as duas arenas também vão ser personalizadas por ele e com assinatura dele. Inclusive pessoal
+também saiu um vídeo do Guito Oledo, está aqui na descrição junto com a loja, deixa eu mostrar
+pra vocês que é da construção da arena pessoal, da arena e o lugar que a gente iria fazer é os
+estúdios BBL, então realmente estava tudo certo pra gente fazer e a gente ia ter um final de semana
+muito legal, surreal, com certeza eu ia sair na segunda-feira que iria ser o último dia de gravação
+como assim, realizado, nós todos iríamos realizar isso daqui junto e quando falou nós todos, BBL,
+StreetBots, todos os times, patrocinadores, o Thiago, todo mundo que ajudou, todo mundo que está
+fazendo parte disso daqui com certeza sim ia sair muito feliz com o que estava sendo produzido aqui.
+Então dá uma olhadinha lá pessoal, acabou de sair esse vídeo aqui, ele tem uma série de nove
+episódios lá, olha só o Thiago fazendo toda a personalização também da arena, ficou assim
+sensacional, aqui no caso vai ser postado também, eu vou fazer um resuminho com outros conteúdos que
+talvez o editor vai fazer, mas pessoal é um breve relato, assim eu estou realmente abalado com o que
+aconteceu, mas esse tipo de coisa só fortalece a gente do nosso lado e eu gostaria que vocês
+acreditassem realmente no projeto, porque se vocês não acreditaram, assim eu não consigo sem vocês.
+Já aquela força divulga o projeto, vai ter mais outros vídeos pela frente do projeto StreetBots,
+tá pra janeiro, a gente não desistiu, mais uma vez me desculpem, apoiem todos os times também que
+estão aqui com a gente, a colaboração deles é essencial para a realização da construção desse
+cenário novo e modificado no Brasil, como vocês sabem é um esporte eletrônico, eu costumo dizer
+que é o primeiro esporte eletrônico brasileiro mundial também, porque era da época de 90 lá,
+eu não consigo imaginar um outro esporte eletrônico que veio antes do que a batalha de robô, cara assim
+muito obrigado, muito obrigado também ao Murilo, que poxa conseguiu acertar as datas com a gente,
+ele acabou tudo e vai estar com a gente na próxima StreetBots e é isso daí pessoal,
+tô chateado mas isso não vai derrubar a gente e quem realmente quiser dar o suporte, não precisa
+ser de pix nem nada disso, compre uma pré-venda na nossa loja, compre um pedaço da nossa história,
+eu não vou desistir pessoal, é isso daí, é o recado que eu quis dar e os próximos episódios
+vão vir por aí, até a realização disso daqui, começa hoje, beleza? Isso só vai fortalecer a gente.
+Até nós pessoal.
+Já estamos trabalhando daquele jeito meus queridos, aí ó, muita mão na massa,
+tchau Lipatinho. Vamos aí, já vou te ajudar já.
+A gente já tá aqui na BBR, olha que espaço lindo e maravilhoso, a nossa arena já está sendo montadinha no local,
+passou mais uma horinha de trabalho mais ou menos e a arena tá como? A arena tá como?
+Já acabamos a menina arena, ficou animal hein, ó.
+Vamos começar a dar a primeira mão de tinta aqui, aqui é um fundo que a gente precisa dar pra depois
+jogar a arte em cima. Caraca, os caras deram só uma de mão aqui, ó, ficou top do top do top,
+tem que esperar, eu posso cair aqui. A gente fez o teto de madeira, a gente vai colorir,
+tem a tela branca pro amigo aqui que vai ravistar. Ele fez aqui de forma independente, porque pra
+ele estar com a continuidade disso daqui só no lugar. Gente, eu to mantendo esse cara mais umas 8 horas.
+Vai tomar no seu... Não tem nada a ver, mano. Mano, isso aqui é muita nossa assinatura já, velho.
+A gente botar as artes que a gente quer e botar o Street Box em background bem suscetivo.
+Acabou não galera, ajuda nós, beleza? Divulgação muito importante, sério mesmo. Bora!

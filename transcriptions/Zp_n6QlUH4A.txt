@@ -1,0 +1,394 @@
+Ae galera, próximo vídeo aqui já começando, ele bora levando a cadeira pra...
+Não, bora de uma vez só mano, bora de uma vez só pra também tomar teu tempo.
+E pessoal, é o Douglas aqui, não é o Rato Borrachudo, essa daqui é uma série de três
+vídeos que eu vi, se você não viu, são três vídeos que eu tô gravando com o Julio.
+O Julio, ele é especialista em segurança da informação, acho que é o melhor.
+É coisa pra se denominar.
+Claro que tem uma ação específica do que ele faz hoje, eu não sei se vocês sabem,
+mas o Rato Borrachudo ele fez um vídeo do Flipper e isso deu muito o que falar, então
+eu tô aqui numa conferência, Rato, eu não vim pra conferência, eu vim pra conversar
+com ele, inclusive eu fiquei muito interessado depois de uma conferência, de repente ano
+que vem eu participe, mas eu achei muito da hora porque a gente precisa, no meu caso
+eu não sou especialista, entendeu, eu sou formato sem essa computação, mas eu não
+sou especialista em segurança da informação.
+O que a gente quer simplesmente mostrar pra você nessa série de três vídeos aqui é
+a introdução, é o que que o mundo hacker é hoje, o que que dá pra fazer, o que que
+você pode tomar cuidado, mas assim é um negócio bem básico mesmo, que eu espero que seja
+de porta de entrada pra vocês que tão vendo esses vídeos pra poder se informar melhor,
+ou deixar pra lá, entendeu?
+E com esse conhecimento aí pra você, então se você não viu tá aqui aparecendo as
+tumbl, tá aí aparecendo também e tudo, todos esses vídeos e esse vídeo de hoje
+a gente vai realmente fazer hacking, hacking ofensivo, eu tava mostrando o Doom aqui, mas
+aqui no caso a gente não tá fazendo nenhum tipo de hacking ofensivo, entendeu?
+A gente só tava mostrando isso daqui, caraca, tem pause, tem tudo, dá pra salvar, calma
+aí, será que isso daqui é coisa?
+Não, é só com os botões, eu tinha os botões certinhos mas eu não imprimi, tinha que imprimir
+e colocar aqui, mas daí...
+Agora já era, aqui eu já...
+Eu tô futricando aqui, mano.
+Sei lá.
+É, é a vida, entendeu?
+Então, quebreu o brinquedo.
+Mas vamos lá, cara, não vamos deixar esse vídeo longo não, vamos deixar...
+Qual o primeiro hacking a gente vai fazer?
+Vamos tentar lá abrir o cabo.
+Agora?
+Vamos lá.
+Mas aí vamos deixar pro final, tá bom, porque aí a gente desce e finaliza lá embaixo.
+Primeiro hacking que a gente pode fazer aqui, você tem alguma coisa de RFID aí?
+Eu tenho...
+Ô, infravermelho vai, pra ligar a TV, pra...
+Tem o flipper.
+A gente pode começar com o flipper, vai.
+Tá bom, vocês já viram a questão dele ligar a TV?
+Tem uma coisa interessante que é, ele consegue ligar qualquer dispositivo que RF, porque
+os pufos RF, eles já são conhecidos.
+Então, se a gente chega aqui no Infrared, você tem tanto o Universal Remote quanto o
+Learn a New Role, então você pode colocar um novo Remote, um novo controle remoto e
+ele vai aprender.
+Sim, ele aprende o...
+Ou você pode pegar coisas que já estão salvos, o meu flipper aqui, ele tem uma série de
+dispositivos já salvos.
+Vamos fazer o Universal, né, TVs, vamos tentar apontar pra essa TV e ver se ela liga.
+É uma TV Samsung, eu espero que ela liga.
+Tá aqui o transmissor dele, pra apontar aí pra TV.
+E ele vai fazer tipo um brute.
+E ele vai fazer tipo um brute force, ele vai enviar várias, várias requisições até
+ele conseguir ligar a TV.
+Bem simples, né?
+Então, bem ou mal, isso é um hack ofensivo.
+Não, não sim, porque...
+Você não tá usando hardware comum da TV pra poder...
+Vou te falar uma coisa legal, tem TVs que você consegue conectar nelas e você consegue,
+por exemplo, enviar URX pra essa TV.
+E enviando uma URX, você precisa dar um toque no OK.
+Você, por exemplo, precisa usar o controle remoto pra dar um OK pra ela abrir essa URX
+numa TV inteligente.
+Sim.
+Então, você não poderia isso.
+Você precisa do controle remoto.
+Do controle remoto.
+Exato.
+Então, você pode combinar essa técnica com outro ataque e talvez você consiga invadir
+uma televisão, comprometer uma televisão.
+E a partir dessa TV, você consegue fazer um movimento lateral pra outros computadores
+dentro da rede.
+Entendi.
+Imagina, mas var TV começa ali como um ponto inicial de ataque e você consegue comprometer
+computadores que estão na mesma rede que essa Smart TV.
+Caraca, loucura.
+Complementos de red team.
+Meu Deus do céu.
+Tá.
+TV é fácil.
+Agora, mano, esse do Spectrum você não tá com o computador aí pra mostrar, né?
+Eu teria que ligar o PC.
+A gente pode fazer um corte no vídeo, né?
+Mas tem uma...
+Tá, você tem esse vídeo pra me mostrar?
+Tem.
+Vamos fazer o seguinte, então.
+Eu vou falando as coisas, eu vou te passando os vídeos.
+Melhor ainda.
+Melhor ainda.
+Então, pode ver aí o vídeo aí do Spectrum pra você ver o que aquele aparelho faz junto
+com o computador, né?
+Exatamente.
+Ele é um hardware que a potencialização dele é via software.
+Isso.
+Então, tipo, esse é um hardware desse tipo, esse é um hardware desse tipo.
+Esse também.
+Esse também.
+Então, tipo, com o software ligado no computador ele aumenta até 1000% a capacidade dele, né?
+É.
+E lembra que ele fica assim muito... assim, tem muitas outras coisas.
+É um anabolizante.
+Exato.
+Então, esse daqui, isso aqui é o quê?
+50 reais, né?
+É, mais ou menos, 60 reais, até 1 dólar, né, cara?
+Antigamente, vou te falar que antigamente isso aqui custava 25 reais.
+Olha aí.
+Esse é o primeiro desse que eu comprei há, tipo, 10 anos atrás e, de fato, faz mais
+ou menos, faz uns 10 anos que eu tenho ele aqui.
+Então, o editor vai rodar aí agora pra você o que isso daí faz.
+Vocês percebam que já tá em 742.461 aqui?
+Essa frequência é eu que nexo, eu que coloco.
+Aqui em cima eu vou ter que colocar, como eu sei já a resolução do meu monitor, eu
+vou colocar em 1920 por 1080 em 60 Hz, que o meu monitor é 60 Hz.
+E agora eu vou dar um start.
+Olha lá, pessoal.
+Tá rodando, mas aparece alguma coisa.
+Agora eu vou dar um auto.
+Olha lá, pessoal.
+Tá estranho, mas vocês podem ver que é uma imagem.
+Olha, tô tentando, né, gente?
+Não fica assim muito melhor que isso, mas percebam que é a imagem que eu queria mostrar
+pra vocês.
+E, ó, aqui também você pode mexer, pode mexer no FPS, ó.
+A gente pode tentar alguma coisa aqui pra ver se melhora, se piora.
+Olha só, fazer modificações de ganho, modificações no LPS, modificações no FPS, até chegar
+no mais próximo possível, ou que vocês acham que é o mais próximo possível.
+Pronto, agora o que tem mais aqui legal?
+Isso é um negócio legal pra caramba, cara.
+Não, isso aqui é incrível.
+Vamos lá.
+Isso aqui é uma câmera e essa câmera tem inteligência artificial.
+Você vai falar que é uma c******.
+Tá desligado e tal, mas eu vou mostrar pra vocês que eu tenho vídeo e eu mando pra
+você e vai passar o vídeo aí também.
+Então, o que acontece?
+Essa câmera faz o seguinte, ela tem a capacidade de identificar pessoas, rostos, objetos, cores,
+usinhas, ela tem um micro controlador, um chip aqui, divisão computacional embarcado
+na câmera.
+E por esses fios aqui, ela só transmite a informação de onde aquilo tá sendo encontrado.
+Então eu liguei isso no meu Arduino, isso aqui é um Arduino, né?
+Certo.
+Uma interface de prototipagem, né?
+Ele tá com um shield em cima, mas é basicamente um Arduino Leonardo, o nome desse Arduino.
+Certo.
+E o que eu faço com isso aqui?
+Eu faço o Arduino fingir ser um mouse e eu falo pra câmera pra seguir com o mouse um
+boneco, por exemplo, um boneco do sex.
+Ó gente, é brincadeira, tá?
+Não é?
+Você tem um vídeo disso?
+Tenho um vídeo.
+Vou mostrar pra você.
+Então, vamos botar o vídeo pra galera aí agora.
+A primeira vez que eu gravei esse vídeo falando sobre a Husky Lens, eu acho que todo mundo
+ficou com essa dúvida, né?
+Se era possível simular um aimbot utilizando essa câmera, né?
+Ela tá muito doida, mas a ideia é que de fato a gente consegue simular um aimbot, ou
+pelo menos algo próximo disso, onde eu consigo fazer com que ela reconheça pessoas, que
+ela reconheça personagens.
+É claro que agora ela tá simplesmente trabalhando com o que ela já tem aqui, né?
+Com os padrões que ela já tem e já vem pré-programados.
+Mas a ideia é que ela consiga seguir um personagem e que ela consiga de fato simular uma mira
+automática, né?
+Então, percebam que eu tô mexendo aqui no teclado, vou mexendo aqui e ela vai mirando
+automaticamente conforme eu vou mexendo no teclado, né?
+Então por aí já dá pra perceber que seria interessante se a gente conseguisse colocar
+esse sistema simplesmente na hora que dá o disparo ou que atira e que ele fizesse uma
+auto mira na hora que atira, isso já comprometeria a qualidade do jogo, já seria considerado
+como uma trapaça.
+Mas o que que tem aqui, mano?
+Tem muita coisa, né?
+Você me pegou assim porque se a gente estivesse em casa eu poderia te mostrar um monte de
+coisa funcionando.
+Vamos fazer o seguinte, eu acho que a gente já mostrou várias paradas.
+Vamos descer agora, vamos lá pro carro, que eu quero muito ver se eu consigo fazer em
+carro novo, isso.
+Com o firma do Flipper que a gente tem, mas é o seguinte, o Julio ele tem um curso, né?
+Ele tem um curso para pessoas que querem se especializar em segurança da informação,
+é um curso nichado já para profissionais da área, para profissionais que são engenheiros,
+da informação, de ciência da computação, que quer se especializar em alguma coisa.
+Eu costumo dizer que a faculdade de informática hoje é como se fosse a faculdade de medicina.
+Você tem que fazer a faculdade de medicina e depois se especializar em alguma coisa que
+você quer ter sucesso no mercado de trabalho.
+Então sim, todo mundo que é formado hoje em alguma área da informação, está procurando.
+No caso vai para o banco de dados, vai para a rede, ou vai para...
+Desenvolvimento.
+Desenvolvimento.
+E segurança da informação é um polo muito legal, é um polo em crescimento, porque cara,
+todo mundo hoje usa dispositivos eletrônicos.
+Está super quente aqui no mercado.
+É, o que eu vejo é que tem um monte de mercado aquecido hoje, mas segurança de informação
+é legal pra caramba.
+Então...
+E cara, você tem que ver uma coisa, quando acontece algum ataque de escala nacional,
+o quanto de vaga que aparece no mercado de segurança.
+É lógico, né?
+É, invadiram a empresa X, subtraíram os dados e invasaram os dados da empresa X.
+No outro dia, se era o Linkedin, tem uma penca ali.
+Tem medo, né, mano?
+Bom, galera, vamos lá tentar burlar o carro, mano.
+Aí galera, o carro está aqui, está a chave aqui e a gente tem dois flippers.
+Qual o esquema aqui?
+A gente tem que ir para longe do carro, né?
+Exatamente.
+Porque essa chave aqui, esse carro, os carros mais novos no caso, tem uma segurança que
+é a da Blacklist, né?
+Cada código que é usado, ele vai para a Blacklist da central do alarme e pronto, não é reutilizável.
+Então a gente vai tentar gravar um código onde a central do alarme não vai pegar.
+Então vamos lá para o fundo do hotel agora.
+Vamos lá.
+E uma coisa que eu quero ver já é qual é a frequência desse carro.
+Tá, vamos lá.
+A gente vai colocar em 433.
+Então, beleza, a gente já sabe qual é a frequência.
+Agora em RAW, a gente vai colocar em 436.
+Ó, perde de novo, Dolus.
+Ó, 436, 940.
+Exatamente esse aqui, ó, 920, 920.
+É, deixa eu ver aqui a da mala.
+É, a da mala também.
+Mesma coisa.
+Mesma coisa.
+Só é outro... beleza?
+Beleza, vamos lá.
+Vamos lá.
+Aí a gente vai fazer o RAW.
+A gente vai salvar em RAW.
+Qual que é a diferença de você salvar em RAW ou da OREG?
+O OREG ele vai tentar decodificar os pacotes.
+E em teoria, se ele conseguir decodificar, você consegue trocar bit a bit.
+Quando é RAW, ele salva aquilo como se fosse um arquivo.
+Um arquivo bruto.
+É um bruto que não é editável, não dá pra editar.
+Então a gente vai salvar RAW, porque é mais fácil, mas daqui pra frente, talvez esse
+dispositivo, depois que for desenvolvido, talvez esse dispositivo consiga editar certas
+frequências, tá ligado?
+Entendi.
+Então vamos lá.
+Vamos pra caralho.
+Ó, a gente está do outro lado do etero.
+É, vamos ficar no máximo de paredes possível.
+Então acredito que o alarme não vai pegar lá.
+Então vamos fazer o seguinte, a gente vai dar um REC, só que aqui está errado.
+Deixa eu colocar o meu na frequência de 433, 433,920.
+Vamos lá.
+E daí o que a gente vai fazer aqui?
+Os dois estão em 433,920.
+Vamos capturar o que abre o negócio.
+Eu vou começar a dar o REC nos dois, daí você aperta tanto o que abre o carro quanto
+o que abre o porta-malas.
+E depois o que fecha, não?
+Não precisa.
+Vamos lá.
+A gente abriu o REC, pode apertar.
+Mais uma vez, aperta e segura.
+Mais uma vez, agora o do porta-malas.
+Beleza, solta.
+E vamos dar um STOP.
+Vamos lá agora no carro.
+Tá capturado.
+Tá capturado.
+Agora a gente vai chegar lá no carro e vai ver se funciona.
+Não é garantia de que funciona, né?
+Não é garantia.
+Se funcionar é ruim.
+Não, não é ruim.
+É só tecnologia normal.
+Tecnologia normal, rapaz.
+Mas eu estou muito curioso pra saber se dá ou não.
+Vamos lá galera.
+Agora é a hora da verdade.
+Na moral, aí parceiro segura a chave aqui pra falar que eu não apertei a chave.
+Então beleza, tá aqui.
+Beleza, tá gravando.
+Vamos ver se...
+Tá com a boca desgraçada.
+Vamos lá pessoal.
+Companheiro, eu não sou nada.
+Eu sou de boa.
+Mano, eu sou tranquilo amigo de todo mundo aqui hoje.
+Eu estava falando aqui no vídeo, eu falei, mano, entrei num lugar onde a galera tem um
+conhecimento que pode fazer de tudo.
+Vamos tentar?
+Será que funciona?
+Eu acho que vai funcionar.
+Vamos lá.
+E aí?
+Vamos dar o sente?
+Vai.
+Por favor, funciona.
+Nossa, não vai funcionar.
+Não funcionou.
+Nossa, eu fiquei...
+Então o bicho é bom mesmo.
+Cara, esse carro não foi.
+Mas o seu Tucson foi.
+O meu foi.
+No meu carro foi.
+Era uma coransão.
+Não, aquele que sabia que ele estava estacionado, né mano?
+Então, olha cara, o que acontece?
+Em teoria...
+Não foi mala, não foi nada.
+Não foi mala, não foi nada.
+Eu estou tentando jogar aqui, apertando os dois.
+Esse aqui também estou apertando.
+Olha aí.
+Vamos lá de novo.
+Se quiser, mano, tentar só o porta-malas.
+Vamos tentar só o porta-malas?
+Aí está...
+Não.
+Ah, sei lá, porque às vezes você replica só o porta-malas.
+Vou dar um erase aqui.
+Vou dar um erase aqui.
+Vamos lá.
+Cadê a chave?
+A chave está aí, mano?
+Vai, só o porta-malas.
+Dei o rec.
+Aperta o botão do porta-malas.
+Solta.
+Aperta de novo, mano.
+Solta.
+Beleza.
+Beleza, solta.
+Vamos lá.
+Vamos dar um stop.
+Calma aí agora, deixa eu fechar o porta-malas.
+Tem que fechar o porta-malas.
+Não, acho que se você jogar ele, vai fechar, vai.
+Será, mano?
+Vou dar um sente.
+Não foi, não?
+Não foi.
+Então, está vendo como depende do carro.
+Depende do carro.
+Não.
+Nem com a minha chave está indo direito.
+Vamos lá.
+Agora foi.
+Aperta de novo.
+Fechei, vai.
+Olha lá.
+Eu acho que dessa vez não foi.
+Não foi.
+Mas...
+A parte legal, o carro é bom.
+Não está vulnerável.
+Tem essa possibilidade.
+Que tristeza, cara.
+Então, galera, terminando o vídeo aqui.
+Galera está for fun aqui hoje.
+Amanhã tem mais, né?
+Amanhã tem mais.
+Amanhã tem mais.
+Adorei conhecer a comunidade aqui.
+Conhecer as coisas que acontecem no meio e tal.
+Eu sou patinho de borracha.
+Eu sou só um formato de ciência da computação.
+E, mano, muito da hora.
+Lembre-se, é um vídeo educacional.
+É o vídeo tendido a seu coração de formação.
+Essa feira aqui é a mesma coisa.
+Ninguém está se reunindo aqui para conseguir conhecimento, para fazer merda por aí.
+É uma feira onde a galera compartilha conhecimento, absorve conhecimento e divide.
+E contatos, né?
+Exatamente.
+Então, achei muito...
+Mano, muito da hora isso daqui.
+Quem sabe, no que venham, venham numa feira dessa ou me especializem em alguma coisa assim.
+Eu sei que eu sou capaz.
+Mas, é isso aí.
+Se você quer saber mais do curso desse cara aqui, está na descrição e a nós, pessoal.
+Beleza.
+Valeu, pessoal.
+Aí o fim da série.
+Agora vou ver o que eu arranjo com esse flipper aqui.
+De repente o filme é novo, né?
+O desafio de abrir o carro e fechar o carro ainda continua.
+E de repente outro carro também, né, cara?
+Porque, beleza.
+Não, tem que ser esse agora.
+Tem que ser esse.
+Tem que ser essa criança aí.
+E ele é 2015, né?
+E nem é tão novo assim.
+Quem sabe a gente faça ligar ele?
+Quem sabe a gente faça ligar ele?

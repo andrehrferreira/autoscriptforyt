@@ -1,0 +1,118 @@
+E aí meus queridos, bem-vindos a mais um vídeo aqui do canal do Ratão e hoje tá meio improvisado,
+eu sei, não tem mais TV, não tem mais nada, porque a gente praticamente tá fazendo a mudança já pro
+estúdio novo, enquanto a gente tá terminando algumas coisas lá, mas a criação de conteúdo
+aqui não para e a gente pretende dar um up esse ano aí. É o seguinte, eu tô trazendo aqui pra vocês
+novamente o Flipper Unbox e fazer alguns conteúdos de Flipper. Eu trouxe aqui também que eu consegui
+comprar esses aqui são meus agora. Eu consegui comprar o Flipper e você então vai ver assim
+é primeira mão, como é que tira e tal, primeira configuração, lance de aplicativo e entre outras
+coisas e aqui também o Develop Board, entendeu, que é a plaquinha de desenvolvimento. Então são
+duas coisas que você vai tá vendo aí, eu tenho que ver aqui direitinho porque ele tem um aplicativo,
+mas vamos primeiro o Unbox pra você ver e a gente vai inventando. O que eu tô querendo fazer é
+criar o meu Nintendo Switch, então você já deve tá vendo aí na thumb, né? A gente vai estar tentando
+fazer isso, porque na real, raquinha não, assim, é, a gente vai inventar o negócio aqui. Garanto pra você que o vídeo vai ser legal.
+Então já deixa o like aí pra dar aquele suporte. E é nóis pessoal, chega junto aí, chega junto.
+Bom galera, tá aqui, plantas as cartas, eu tô gravando com flash aqui pra não perder a qualidade,
+porque tá meio escuro aqui, eu tô levando iluminação, já levei um monte de coisa pra lá.
+Então olha só, tá aqui, vamos primeiro abrir o Flipper Zero, uma caixa bem tranquilinha. No caso
+aqui pessoal, o que acontece? Eu comprei, eu não sei agora, já tá vendendo aqui pro Brasil,
+não tinha, não tá vivendo pra lugar nenhum. Aí depois começou a enviar só pra Europa.
+Aí o amigo meu, Leandro, parceirão, recebeu pra mim, depois mandou pra mim. A boa coisa é que eu não paguei,
+em posto eu não paguei nada. Pagou só R$15 de espaço fiscal lá e pronto. GG. Vamos abrir ele aqui.
+Eu vou deixar aqui pra guardar a caixinha. E cara, já veio um adesivozinho, Acre Planet.
+E aqui um Kickstarter que a gente vai seguir a risca. Ó, botar o micro SD, parou,
+vou ligar no computador e botar. Tranquilo, a gente vai tá fazendo isso aqui rapidinho.
+Um cabo e aqui ele, o monstro. Esse daqui é meu, tô muito feliz. Cara, um negocinho desse daqui é maneiro pra caramba.
+Então vou tá guardando aqui, né.
+Aqui, aqui, aqui, aqui. Deixa eu danificar daqui. Ah não, é meu óculos, é meu óculos, é meu óculos.
+Meu óculos é polarizado, pegou bem uma manchinha aqui, deixa eu ver se consigo mostrar pra vocês.
+Ó lá, tá vendo? Tô com a manchinha ali, ó. Meu óculos é polarizado, pegou tipo uma manchinha ali.
+Vamos abrir isso aqui agora. Aqui é o Develop Board, que é o módulo Wi-Fi dele, pra poder fazer uns
+detalhes de maneira, se vocês quiserem eu posso criar bastante conteúdo com essa placa aqui,
+que essa placa ela encaixa aqui, ó. Aí meu amigo, abraço. Aí o negócio fica intensificado.
+Vamos fazer umas paradas maneiras aí. Vamos lá galera, vamos lá. Deixa eu guardar esse cara aqui.
+Comprei esse 2 aqui. Vamos pegar um cartãozinho de memória que eu já tinha separado. Cadê? Eita,
+eu tinha formatado já um no esquema, tinha botado já um no esquema. Vamos lá. Esse aqui já tá no esquema.
+Formatadinho. Não, não é esse, não é esse. Esse daqui, esse daqui. Dá uma parada na unidade.
+Já fiz merda ali. Ué, cobram os dois agora. Ô, cocô, feijão tá no fogo, hein.
+Meu parceiro quer saber de uma coisa? Esse daqui mesmo. Formatei, fui. Depois eu compro um menorzinho
+pra botar aqui que não precisa ter um de 64GB desse brabício. Vou botar aqui. Pronto, ligou.
+Opa, não, database found um SD. Tá, mas ele precisa, né, precisa botar um, vamos lá,
+format, automático, phone flip, menu, manual. Tá, então vou já formatar aqui, que ele tá falando
+que eu posso formatar. Já vai formatado o negócio certo. Beleza. Tô seguindo aqui, é legal,
+primeiro espaço, entendeu? Formatei. Agora vamos lá, ligou, já liguei, errou de 3 segundos. Aí agora
+vamos fazer o update. Aí tem que entrar agora o update flipper 0.1, download for Windows.
+Pronto, tá conectado, aí ele já identificou aqui, ó. Tranquilão. Então já vou fazer aquele update
+maroto. Ele parece um brinquedinho de criança, mas não é, galera. Isso que é engraçado desse
+flipzinho, tipo o aplicativo dele parece um, um, um, um, um negocinho de hack bobinho. Tudo dele
+parece bobinho, mas não é bobinho não. Aí ó, pronto. Aqui, continue. Tá instalado, tá falando que
+não tem update. Tem como eu escolher o release aqui, ó, se eu quiser o release de desenvolvimento,
+eu posso botar, o release de desenvolvimento deve, deve ter umas paradinhas interessantes. E aqui tem
+como eu subir algumas paradas, né. Eu guardei vários arquivos, várias outras coisas que eu já, né,
+já tava mexendo. Então depois eu vou subir isso daqui, mas sinceramente eu acho que eu vou subir
+a versão de desenvolvimento. Pronto, no esquema. Agora eu vou fazer o seguinte, eu vou subir já
+algumas coisas que eu já tinha mostrado para vocês, alguns arquivos de, porque o que que acontece? Ele
+tá em lugar, pode ver que ele tá cruzão, então ele tá, ele tá com o pilôdio, mas ó, eu não tenho
+quase nada aqui, ó. Só tem as coisas padrão, ele tá level 1, vou trocar esse nome aí, tentar trocar
+esse nome aí, mas ó, infra red ele só tem universal, só tem demo, nada, tem nada aqui.
+Isso aqui que é legal, demo. Vou dar um app aqui ó, mostrar pra vocês. Só a galera que não conhece aí ó,
+o que essa criança pode fazer, ó, mexendo no meu computador sozinho, sozinho, aí ó, eita lá, sozinho,
+sozinho. Só pra você sentir, você que não viu nenhum vídeo aí de flipper, o que que essa criança
+pode estar fazendo. Mas beleza, vou dar uma configuradinha aqui agora e já volto pra mexer
+no Nintendo Switch. Pô galera, vamos lá. É, já botei algumas coisas aqui no meu flipper, entendeu,
+vou mostrar aqui pra vocês ó, aí o que que acontece agora, agora ele tá com várias outras coisas aqui
+que eu já tinha já, infra red e tal. Só que a gente vai fazer uma brincadeira aqui agora com o Amiibo.
+Tipo, eu tô ligado que vende por aí, o cartãozinho né, de Amiibo. Cara, assim, eu não coleciono Amiibo,
+eu não tenho nenhum Amiibo, mas eu sei que com o flipper tem como você clonar o Amiibo.
+Nossa, essa câmera tá muito estourada, gente. Então ó, eu consigo clonar por exemplo, se eu chegar aqui ó,
+aqui em NFC, read, pegar alguma coisa com o cartão vai, cartão de... Ó.
+Uau, tô escondendo aí, tá ligado? Mas ele consegue dar aquela clonadinha. Então se eu fizer a mesma
+coisa com o Amiibo, tá bom. E aqui no caso, a gente vai fazer o seguinte, a gente vai vir aqui,
+aí eu tenho vários Amiibo já aqui ó, Amiibo files, tem... Nossa, tem muito Amiibo nessa lista aqui.
+Eu vou começar com os de Zelda mesmo, aniversário, entendeu? Aí aqui no Zelda, eu tenho que vir aqui,
+estar ativado para usar Amiibo, ó lá, use Amiibo, aí eu venho aqui ó, boto aqui e aí eu vou e jogo
+o Amiibo, ó lá, já tá simulando Amiibo. Peguei Vral.
+Cadê? Ué, não é assim não. Ah, aqui ó, ó.
+Ih, tá funcionando não, hein? Será que esse aqui tá doente? Vou botar outro.
+Hm? Era para estar funcionando, mas não tá funcionando.
+Raxa cara grandão. Ué, será que é por causa dessa borrachinha aqui?
+Eu botei as paradas. Pô, foi isso aqui. Deixa eu ver aqui, o negócio aqui, Amiibo.
+Deixa eu ver aqui se vai reconhecer. Hm, tá reconhecido mesmo não.
+Será que essa lista aqui de Amiibo tá atrasoada? Deixa eu ver essa daqui.
+Ué, né? Ih, tá quebrado, hein?
+Agora acho que foi galera, ó, eu resetei aqui, ó.
+E aí? Ok. Tá, agora foi, ó. O proprietário Carlos foi clonado de um tal de Carlos.
+Deixa eu ver aqui, eu acho que essa lista de Amiibo aqui tá ferrada, mas vamos ver.
+Vou pegar esse daqui 8-bit ali. Tá.
+Ah não, tá show. Beleza.
+Bom, vou voltar pro jogo. Agora vai, agora vai. Já tá no esquema.
+Ui, que delícia.
+Ai meu Deus, eu adoro ver o fliper zero. Nossa, logo assim de começo, vamos ver.
+Que dá mais. Ah, já deu, já. Não pode usar de novo? Beleza, nós vamos usar esse.
+Do Majora's Mask.
+Eita, ui, delícia. Ai sim, ainda caiu um bausinho lá. Vamos ver.
+Ah, mas isso daí. Ai vai um monte de gente falar, ah, mas isso daí atrapalha.
+Querido, vamos pensar aqui comigo agora. Se você tiver um Amiibo original, você pode fazer isso.
+Só que você tem que pagar uma bala. Cada Amiibo desse é caro pra caramba.
+Isso não seria caracterizado um Pay to Win no jogo? Porque, beleza, você pode começar o jogo agora.
+Botar vários Amiibo aí, por exemplo, você tem dinheiro pra caramba, comprou vários Amiibo.
+Aí você vai, pega sua coleção de Amiibo, pega o Ocarina of Time aqui agora.
+Pô, tá de sacanagem, né? Isso não é um Pay to Win. Então o que acontece?
+Eu simplesmente investi aqui no nosso fliper zero, né? Então aqui me divertindo agora.
+Vamos ver se vai dar além de só, só.
+Beleza. Opa, caiu um monte de caixa.
+O centauro tá cheio. Tem que ter alguma coisa aqui, cara.
+My Light Prince.
+Caiu nada de interessante, nada de interessante.
+Vesta vários.
+Só peixe.
+Caiu um baú.
+E olha aí, mano. Isso aí no começo do jogo, filho? É como? É Deus.
+Tem que ter alguma coisa aqui interessante, velho.
+Dildor Wind Waker.
+Editor, tá botando os Amiibo aí? Editor, dá uma forcinha aí.
+Cada Amiibo que eu tô usando aqui, você tá botando aí.
+Pra galera já se ligar qual Amiibo é.
+Opa.
+Tá, vamos no Twine aqui, Wolf Link.
+Nossa, sumunou o lobo, velho. Pra ajudar nós.
+Aí tá de brinques, né? Acho que ele não...

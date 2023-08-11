@@ -1,0 +1,496 @@
+Fala aí, meus queridos! Bem-vindo a mais um vídeo aqui do canal do Ratão.
+E hoje a gente vai fazer um videozinho aqui sobre o estúdio e automação.
+Mas antes, eu queria dar uma recapitulada aqui.
+Dia 27 agora, já avisando para você, vai começar o projeto Shibata.
+Vão ser vídeos todos os dias até o fim do projeto Shibata.
+Vai ser mais ou menos uns 13, 14 vídeos.
+Eu acho que você não pode perder.
+Está rolando já, já estou gravando.
+E olha só, vou dar spoiler para vocês.
+O projeto Shibata é o nosso robô de combate.
+E eu estou indo apostar realmente, é uma aposta maluco.
+Estou indo para Nova York competir.
+Dia 4, estou embarcando.
+E cara, eu estou passando um pé engue da desgraça montando esse robô.
+Estou tendo muita ajuda.
+E começou de uma armazinha louca aqui.
+A gente foi, atualizou o projeto.
+Vou mostrar para vocês de spoiler.
+Então está uma loucura.
+Mas eu não posso deixar de gravar os vídeos aqui do estúdio para vocês.
+Que sempre está aquela eterna bagunça, beleza?
+Estou montando um carrinho para usar uma peça no motor.
+Estou imprimindo coisa.
+É parafuso para tudo quanto é canto.
+É coisa de, de, de, de, de, de...
+Coisa que explodiu.
+Tem tudo aqui, velho.
+Tive que comprar ferramenta nova.
+Comprei ferramenta de bancada.
+Estou imprimindo coisa na impressora agora.
+Pô, que merd...
+Tá, ô merda.
+Aí é para mim...
+Merda, vai.
+Eu não estou conseguindo imprimir o bagulho aqui, nego.
+E quando chega ali, ele vai para impressão, deve estar com frio, sei lá.
+Que diabo que está acontecendo.
+Já começou o estresse já.
+Mas não tem nada a ver com esse, com esse coisa aqui não.
+Eu já estou estressado mesmo, entendeu?
+Máquina laser rolando.
+Entendeu? Impressão e máquina laser.
+Então o projeto está muito legal, não deixa de ver.
+E vamos lá, pessoal.
+Deixa eu só botar essa desgraça aqui para ver de novo.
+Eu não sei o que está rolando, ela está parando, velho.
+Eu estou sem paciência, mano.
+Eu não, mano, eu estou sem dormir.
+É, velho.
+Eu vou aprender, mano, vou aprender o meu carro.
+Mano, esse projeto de bata está como? Naquele esquema.
+Mas vamos lá, pessoal. É o seguinte.
+Sobre a automação, vocês viram que, por exemplo, eu instalei Sun Off.
+A gente tem várias coisas...
+Eu tenho várias coisas aqui em casa sobre a automação.
+Mas tem uma coisa que, cara, é muito legal.
+Que se chama Home Assistant.
+Vou estar me mexendo aqui já.
+Eu vou reiniciar tudo que eu tenho que reiniciar.
+Calma aí, deixa eu tirar o meu endereço.
+Mas olha só, eu desliguei o servidor.
+Eu estou usando uma Tinkerboard da ASUS
+para poder fazer esse servidor,
+mas eu vou fazer esse servidor junto com vocês.
+E o legal do Home Assistant, que cara, é muita possibilidade.
+Sério, por exemplo, eu consigo botar aqui
+quanto está no meu iPad de bateria,
+quanto está no meu iPhone de bateria,
+quanto está no meu Apple Watch de bateria.
+Eu consigo pegar todos.
+É porque eu desliguei, mas vou mostrar aqui para vocês.
+Aí, está dando erro em tudo, entendeu?
+O animal aqui, em vez de deixar o servidor ligado...
+Mas olha, estava tudo no esquema já funcionando,
+agora não está funcionando, mas é nada.
+Por quê? Porque eu desliguei o servidor burrão.
+Mas até a câmera da impressora, ele pega.
+Então a gente vai fazer junto aqui.
+Essa daqui é uma Tinkerboard da ASUS, está vendo?
+E eu estou tentando imprimir uma capinha para ela ali.
+Essa daqui é feita na zona franca de Manaus,
+é uma Tinkerboard antiga, não sei se tem das novas.
+Essa daqui já é a review 101, mas com certeza tem nova,
+porque ela já está há muito tempo comigo e eu estou usando ela.
+Então vamos começar a instalação, bonitinho, beabá.
+E eu vou mostrar para vocês, mas é muito legal,
+é muito interessante.
+Eu consigo ligar Alexa nela,
+eu consigo ligar todos os aparelhos, todos os aplicativos,
+tudo, tudo num lugar só.
+E usar o tablet, usar o celular, mano, é muito da hora.
+Então a gente vai dar uma mexidinha nisso aqui
+e vai futricar nisso aqui hoje.
+E as coisas que vão acontecendo,
+eu não vou dando spoiler aqui do projeto Shibata para vocês.
+Dia 27 começa agora, vamos dar uma força aí.
+E vai começar aquele...
+Sabe aqueles conteúdos de viagem que a gente tinha antes da pandemia?
+Vou voltar a fazer para vocês agora.
+Beleza? Vamos embora, pessoal.
+Minha talibã
+Vamos lá, galera.
+Já estou com a Tinker na mão, certo?
+Está no esquema aqui.
+A próxima coisa que a gente precisa é um cartão de memória,
+porque a gente vai fazer toda a instalação no cartão de memória.
+Então já estou botando aqui o cartão de memória,
+que é o cartão de memória que eu estava usando.
+Ele até bota todos esses arquivos que estão aqui,
+boot, essas coisas todas.
+Só que eu vou refazer tudo de novo para vocês verem.
+Então eu vou botar aqui home, assistente, certo?
+Primeiro link.
+Ele é gratuito, só para você entender, entendeu?
+Na real tem um serviço que eu estou pagando, que é uma vez por ano,
+que é justamente para um serviço...
+Já vou falar para vocês, eu esqueci o nome,
+mas que dá para usar Alexa nele
+e dá para você controlar as coisas remotamente
+quando você estiver fora de casa.
+Documentação, instalação.
+Aí eu venho aqui, ele consegue fazer isso tudo aqui.
+Inclusive, você pode estar instalando ele no seu computador,
+mas aí não quer você ter que deixar o seu computador ligado,
+porque ele funciona como um servidorzinho, entendeu?
+No caso aqui, a Tinkerboard,
+eu vou deixá-la ligada lá na sala, lá no mesanino.
+Bonitinha lá.
+Galera, eu comprei várias paradas.
+Isso aqui vai ser uma série que eu vou estar montando aqui.
+E tipo, sensor de movimento,
+comprei sensor de abertura de porta.
+Já vou mostrar tudo para vocês que eu comprei,
+para a gente estar startando isso aí.
+Mas eu acho que não vai dar para botar isso tudo no vídeo de hoje.
+Mas vamos lá. Tinker.
+Aí tem toda a documentação aqui, beleza.
+No caso aqui é uma Tinker Edge, que ele recomenda.
+A minha Tinker é essa? Nem sei se é minha Tinker S,
+mas está funcionando de boa. É a minha S.
+Então, ele recomendou a S,
+ele pede para baixar esse tal de balena aqui.
+Beleza, vou baixar aqui bonitinho.
+Vamos embora aqui.
+Eu acho que eu já tenho ele instalado, se eu não me engano.
+Vou até ver aqui, mas eu instalo de novo.
+Vamos instalar bonitinho.
+Aí você vai... Beleza, está instalando.
+Estalou.
+Aí no caso, eu vou botar...
+O que ele pede aqui mesmo?
+Flash for um URL, então vou copiar esse cara aqui.
+O URL.
+Vou botar esse cara aqui.
+Já vai vir um atualizado.
+Ok.
+O recente é um antigo que eu tinha instalado.
+Select de Target.
+Aí no caso... Eita, rapaz.
+Será que ele... Qual é aqui?
+Acho que é esse daqui. É esse daqui.
+De 32GB, se eu botar esses outros dois aqui,
+eu me ferro todo.
+Mas é esse daqui mesmo. Select, flash.
+Beleza, está no esquema.
+Já fez? Atenção, o quê?
+E qual foi? Já deu erro?
+Não tinha dado esse erro aí não.
+Retry.
+Já sei o que é.
+Isso não vai acontecer com você.
+Está acontecendo comigo, vou te falar o porquê.
+Calma aí, deixa eu tentar de novo.
+Flash.
+Eu já sei o porquê.
+Porque ele está formatado.
+Ele formatou de um jeito aqui que está só com 23MB.
+Vou acertar isso aqui e já volto.
+Guenta aí.
+Então, galera, eu simplesmente...
+Já que estava com um probleminha aqui,
+eu entrei no gerenciamento de disco,
+mandei desalocar tudo aqui.
+Vou alocar outro negócio aqui.
+Beleza, vamos ver se...
+Aí eu estou refazendo todas as partições, entendeu?
+Formatou.
+Agora... Ué, por que o Windows?
+Por que o Windows? Por quê? Não foi?
+Por que ainda não conseguiu?
+Está vendo?
+Não compra essa porcaria aqui na China, AliExpress.
+Inclusive, se você quiser, usa o desconto no preço.
+Porque a gente bota muito essa porcaria lá também.
+Essa desgraça aqui.
+Vou botar outro cartão de memória.
+Comprei um monte.
+Os cartões formatou uma vez e já era. Morreu.
+Será que é isso mesmo?
+Morreu mesmo, grandão.
+Chorou.
+Acho que já foi formatado já.
+Deixa... Desculpa aí o rei G.I., galera.
+Vamos lá.
+Acho que agora vai, hein. Agora vai.
+Bagulho simples, velho. Bagulho simples.
+Toca editando isso, velho.
+Aí, galera, consegui resolver.
+Não tinha nada a ver com o cartão.
+Estava pirando aqui.
+Os cartões que você encontra no desconto no preço,
+os correios de preços são bons.
+É... Confia.
+O que eu fiz, cara?
+Ele não estava...
+O Balela não estava conseguindo ler esse link aqui?
+Eu simplesmente fiz isso aqui. Peguei e baixei.
+Botei aqui.
+Peguei, baixei, botei ele no meu computador.
+Quando eu botei ele no meu computador,
+mandei abrir o arquivo e ele agora está flashando.
+Então, vamos esperar ele fazer isso daí rapidinho
+e a gente já vai começar um esqueminho aqui, maninho.
+Beleza?
+Bom, galera, acabou.
+O que eu vou simplesmente fazer?
+Tirar o cartão, pegar o cartão, botar na tinker.
+Cadê? Aqui atrás.
+Que bonitinho.
+Cartãozinho aqui no esquema.
+Vou mostrar aqui para vocês.
+Aí, para mostrar para vocês o que eu estou fazendo,
+é o seguinte, eu vou ligar aqui o HDMI na placa de captura.
+Vamos ver se vai dar certo.
+E já vou ligar o ponto de rede,
+porque ele precisa fazer a primeira configuração
+e um ponto de energia.
+Aí, fui.
+Vamos ver se ele vai ler bonitinho.
+Opa!
+Já deu o sinal ali.
+Então, ele está bootando.
+Vou botar aqui grande, bonito.
+Então, ele vai fazer o primeiro boot.
+Beleza, é assim, ele bootando.
+Bonitinho.
+Só que não é por aqui que você vai mexer.
+Como eu liguei ele na rede, você vai entrar no IP dele.
+Beleza?
+Já, já a gente vai achar o IP dele.
+Aí, galera, ficou tudo preto aqui.
+O que eu já vou fazer?
+Lá naquela página de configuração,
+tem para ele entrar no local.
+Então, já achou.
+Ele está pedindo 20 minutos para poder terminar a configuração.
+Quando ele terminar a configuração,
+vai dar a página para a gente fazer o login sem.
+Então, vamos dar esse tempinho aí agora.
+Está tudo funcionando ali bonitinho.
+E vamos lá.
+Depois que acaba, pessoal,
+ele pede para você fazer a primeira configuração.
+Vou fazer a primeira configuração,
+porque eu não vou mostrar minha conta aqui para vocês.
+Rapidinho, já mostro para vocês.
+Duas horas depois.
+Criei a conta.
+Beleza, agora vou estar configurando aqui
+que lugar que eu estou.
+Estou no Brasil.
+O João, português.
+O Zoharara, menos três.
+Menos três é a função? Não.
+O Copo Grande.
+Eu nunca saí de São Paulo, velho.
+São Paulo é menos dois.
+Que esquisito.
+Para mim, eu jurava que era menos três.
+Depois eu vou ver isso daqui.
+Elevação, não tenho a mínima ideia
+de quando a gente está moeda real brasileira.
+De cara, ele já reconheceu
+algumas interfaces que estão na minha rede.
+Ou seja, a gente tem Tuya, a gente tem TV da LG,
+a gente tem, no caso, aquele RT, o nosso modem da ASUS.
+A gente tem Bicom. O que é Bicom?
+É um rastreador dos cachorros.
+Bizarro, ele pega o rastreador dos cachorros.
+A gente tem Chromecast.
+A gente tem alguns arquivos do Bluetooth.
+A gente tem aqui a lâmpada da Eugato,
+que é do meu setup.
+Está ali também.
+Ele já pega algumas coisas e já vral, já joga para você.
+Beleza?
+No caso, galera, isso daqui é...
+Vem seco.
+Seco, seco, seco.
+A gente vem aqui em configurações,
+dispositivos e serviços.
+E aí, a gente vai configurando aos poucos, entendeu?
+No caso aqui, vou configurar Tuya.
+Já vou configurar aqui também.
+Ele pega já alguns dispositivos que estão aqui.
+Caso alguma coisa não for reconhecida,
+eu venho aqui adicionar interação.
+E aqui tem várias marcas de várias paradas
+que são automatizadas, entendeu?
+Isso aqui tudo é marca.
+Você vai lá, bota a marca, depois pega o device
+e joga.
+Por exemplo, aquela parada que eu tinha mostrado para vocês
+da Apple, é só vir aqui, botar iPhone, eu acho.
+Nem lembro.
+O da Apple...
+Não está vindo não da Apple.
+Da Apple?
+O da Apple, gente.
+Aí, Apple.
+No caso aqui, a gente vai, conecta a nossa cloud
+e ele pega todas as nossas interfaces do iCloud.
+No caso aqui, eu tenho o Apple Watch, eu tenho o iPad,
+eu tenho o iPhone.
+Ele pega tudo e dá para você botar várias paradas ali.
+Eu vou fazer o seguinte,
+eu vou fazer algumas configurações aqui, bem básicas,
+e mostrar para vocês.
+No caso, se não estiver aqui,
+isso eu estou aprendendo ainda, entendeu?
+Tem como você pegar aqui
+e adicionar de 8 jeitos em ADD Onces, entendeu?
+Venho aqui em lojas de ADD Onces.
+Aí tem os oficiais e os não oficiais.
+Os não oficiais tem um outro jeitinho para a gente adicionar.
+Mas tem várias outras paradas também
+que você pode estar botando aí para te ajudar.
+Eu sou bem patinho de borracha,
+eu quero ir evoluindo no Home Assistant com vocês.
+Então, vira e mexe, vai ter um negócio de Home Assistant aqui.
+Beleza?
+Vamos embora, pessoal.
+Bom, galera, fiz uma configuração bem inicial aqui
+para você ver o potencial do negócio que eu estou falando para vocês,
+que a gente vai ver nos próximos vídeos aqui.
+Olha, isso aqui é a minha geolocalização,
+falando que eu estou em São Paulo.
+Aqui eu consegui botar o meu roteador,
+então eu consigo saber quanta banda eu estou recebendo,
+quanta banda aqui em casa está enviando.
+Aqui também é um histórico.
+Aqui eu botei o medidor de bateria do meu Apple Watch,
+do meu celular, do meu iPad.
+Aqui é um aplicativozinho que tem de negócio de temperatura,
+e aqui que é legal.
+O que eu uso aqui?
+Sonoff. Eu uso Sonoff e Tuya.
+Eu não consegui botar Tuya para funcionar,
+mas tem um jeitinho de você botar, usar o IoT.
+Ainda vou dar uma estudada para botar,
+porque eu tenho sensores de temperatura Tuya,
+eu tenho tipo... Isso daqui é ZigBee.
+Entendeu?
+Eu já vou mostrar para vocês as coisas que eu comprei.
+Ai, meu Deus, está ali.
+Então, olha, estou ligado?
+Olha.
+Tudo daqui, entendeu?
+Eu consigo também fazer lança de energia.
+A gente compra uns gadgets, bota aqui,
+eu consigo saber quanto está gastando de energia um lugar,
+quanto está gastando de energia o outro, por exemplo,
+o DigiUntoX, o Zip, o Zip,
+eu consigo adicionar isso daqui.
+E a partir daqui, fazer várias automações.
+Tipo, tem como através da minha localização,
+eu estou chegando perto de casa e já ligar condicionado,
+já fazer isso, já fazer aquilo.
+Quando eu apertar um botão, já ligar,
+aí eu boto um som off ali no Pinball,
+aí já liga luz X, Y, Z, Pinball,
+já fica um negócio bonitão, entendeu?
+Dá para fazer muita coisa, galera, muita coisa mesmo.
+Aqui no caso, eu botei sala de estar,
+mas ainda não botei,
+porque a maioria dos interfaces que tem lá é Tuya,
+eu não configurei a Samsung.
+Aqui é a mesma coisa do quarto,
+mas dá para você chegar,
+botar aqui bonitinho, já botar os emblemas e tudo.
+Ele é completamente personalizado.
+Então aqui, a luz da varanda.
+Aqui no caso, todas as luzes do jardim.
+E aqui no caso, eu botei o meu Chromecast,
+ele aceita Chromecast também,
+ele aceitou a minha TV, então eu consigo fazer com o control.
+Ele aceitou a minha Key Lite.
+É muito da hora, entendeu?
+Ele aqui tem acesso ao meu Wylink,
+que eu fiz a instalação, ele não é oficial.
+Então eu peguei aqui, endereço aqui no som off,
+ele explica bonitinho, eu vou lá,
+instalo e pronto, vai ser feliz.
+A mesma coisa a minha Alexa, fiz aqui, dispositivos.
+Então não botei todos ainda,
+ainda tem muita coisa para configurar.
+Olha só que legal o que eu consigo botar aqui.
+Deixa eu mostrar para vocês aqui, eu de bola.
+Adicionar, adicionar cartão,
+aí eu chego aqui, boto o endereço da minha câmera,
+da câmera 3D, está rolando ali.
+A câmera da minha impressora 3D, eu consigo botar aqui.
+Então tem como você montar todo o sistema de vigilância
+e galera, fica aqui no tablet, entendeu?
+Já vou mostrar para vocês,
+eu quero botar aquela câmera ali também que eu tenho.
+Eu tenho um sistema de câmera aqui em casa,
+vou botar todas as câmeras bonitinho, sair do modo.
+Se eu quiser vir aqui, ADD dashboard, deixa eu ver aqui.
+Tem como dar uma personalização, eu esqueci como.
+Calma aí, ADD1, loja ADD1, já tinha me ensinado nesse treco aqui.
+Agora eu esqueci para botar uns temas maneiros, uns tema matrix.
+Deixa eu mostrar para vocês um negocinho.
+Acabei imprimindo aqui, para mim é Tinkerboard.
+Então quando eu terminar de configurar, vou botar aqui dentro.
+Entendeu?
+Olha como fica aqui no iPad, pessoal.
+Olha, você liga, cadê?
+Aqui, home assistance, está vendo?
+Então tem como eu puxar isso aqui tudo, cadê?
+A câmera aqui, tem como desligar.
+Cadê? Deixa eu ver aqui.
+Visão, aí eu vou e troco aqui.
+Está vendo? O mesmo esquema.
+Então eu consigo ter controle remotamente, tudo bonitinho,
+fazer uma configuração legal para caramba.
+E o que eu comprei?
+Eu comprei esse sensor aqui de presença,
+que serve para home assistance.
+Eu comprei esse sensor de porta aqui,
+eu abri a porta ali, coisa chinela.
+Eu comprei vários switches desse ZIG B.
+Depois de um tempo, tem que ter tempo agora, tem que ter tempo.
+Para poder instalar, porque eu estou no projeto de Shibata, galera.
+Projeto de Shibata vocês vão conhecer a partir do próximo vídeo,
+mas depois vai voltar.
+Depois do projeto de Shibata vai voltar o estúdio da Bruna,
+o escritório da Bruna e também eu vou terminar as coisas aqui.
+Mas olha o tanto de coisa que eu comprei,
+que eu acho que eu dei uma exageridade.
+Entendeu?
+Ainda bem que isso aqui foi antes da estachação maluca,
+viu? Tudo sem tachar, galera. Estourei.
+Isso aqui é um controle universal para ele controlar o ar condicionado,
+para ele controlar aquela bichinha ali.
+Isso aqui é um sensor de temperatura e umidade.
+Não sei por que eu não estou conseguindo botar tui ali.
+Então eu consigo também controlar isso aqui.
+Aí eu quero ligar a impressora 3D.
+Ele vai no FingerBot,
+ele dá um jeitinho aí e com essa impressora 3D.
+Então muito legal.
+Vou dar um spoiler para vocês do projeto de Shibata,
+que está pegado.
+É uma hora da manhã, eu estou trabalhando no projeto de Shibata.
+Chegou várias peças novas aqui hoje, estou trabalhando.
+Cozinagem.
+A gente vai para Nova York estourar, meu parceiro.
+Tem várias novidades para o canal.
+Esse aqui é o projeto 3D, que ele lê as tampas.
+Isso aqui tudo é spoiler.
+Spoiler, Zasso.
+Olha.
+Spoiler.
+Spoiler.
+Então começa a raipar o projeto de Shibata aí.
+Aí olha.
+Spoiler, meu parceiro.
+Do jeito que vocês gostam, né?
+Então é isso aí, galera.
+Já deixa o like para dar aquela engajada no canal.
+Olha que bonito que ficou aqui o teste.
+Eita, caramba aí.
+Fui da porra da mão toda.
+Deixa aquele like para engajar o canal.
+Eu vou tomar um banho porque eu estou podre.
+Vou dar uma dormina forte.
+Galera, vou mostrar para vocês que é isso aí.
+Está foda, está foda.
+Tudo bagunçado, é desgraça.
+Até o carrinho estou desmontando ali para roubar peça do carrinho
+para o projeto de Shibata.
+O 15 da manhã do dia que vocês estão vendo esse vídeo.
+Então vocês estão vendo que eu estou me matando
+antes de trabalhar pelo seu entretenimento.
+Deixa o like aí a nós. Fui.

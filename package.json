@@ -1,0 +1,25 @@
+{
+  "name": "autoscriptforyt",
+  "version": "1.0.0",
+  "description": "Auto Scripts for Youtube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andre Ferreira",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "form-data": "^4.0.0",
+    "glob": "^10.3.3",
+    "googleapis": "^122.0.0",
+    "lodash": "^4.17.21",
+    "natural": "^6.5.0",
+    "openai": "^3.3.0",
+    "uuid": "^9.0.0",
+    "whisper-node": "^0.2.12",
+    "youtube-dl": "^3.5.0",
+    "youtube-exec": "^1.0.4"
+  }
+}
